@@ -1,4 +1,5 @@
 # instagram
+<img width="365" alt="Screenshot 2023-06-19 at 3 04 16 PM" src="https://github.com/perdiy/UI_IG/assets/80159812/5dda704c-f303-4142-a192-10f5c899807e">
 
 A new Flutter project.
 
